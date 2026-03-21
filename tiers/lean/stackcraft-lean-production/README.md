@@ -1,6 +1,6 @@
 # Lean Production ($400–$700)
 
-**StackCraft: Lean Production** is a **standalone module**. It is not folded into StackCraft Core; Core links here for navigation and upgrade paths.
+**StackCraft: Lean Production** 
 
 **Budget:** $400–$700 per month (indicative; verify current pricing).
 
