@@ -1,6 +1,7 @@
 # Lean Production (module location)
 
-**Lean Production ($400–$700) is maintained as a standalone module**, not under this directory.
+**Lean Production ($400–$700) 
+
 
 **Full documentation:** [stackcraft-lean-production](../../../stackcraft-lean-production/README.md)
 
